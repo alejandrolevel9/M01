@@ -1,4 +1,4 @@
-**¿que contiene un MBR?
+*¿que contiene un MBR?
 un MBR, es el primer sector de un dispositivo de almacenamiento
 de datos, como un disco duro.Se emplea para arrancar el sistema operativo 
 con bootstrp y para almacenar una tabla de particiones.
