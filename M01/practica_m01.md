@@ -1,4 +1,4 @@
-﻿**GNU***
+﻿**GNU**
  
 *¿que es y como se utiliza?*
 
