@@ -1,4 +1,4 @@
-﻿**¿Que contiene un MBR?**
+#¿Que contiene un MBR?#
 
 
 Un MBR, son los sectores de un dispositivo de almacenamiento
