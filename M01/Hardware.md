@@ -2,6 +2,10 @@
 
 En hardware el professor nos enseño como utilizar unas herramientas en 
 un ordenador.
+-Tester
+-Alicates de corte
+-Destornillador
+
 
 1º quito la cada de donde sale el aire de ventilador 
 (este caso la izquierda) con un destronillador.
