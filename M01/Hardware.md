@@ -2,6 +2,8 @@
 
 En hardware el professor nos enseño como utilizar unas herramientas en 
 un ordenador.
+
+
 -Tester
 -Alicates de corte
 -Destornillador
