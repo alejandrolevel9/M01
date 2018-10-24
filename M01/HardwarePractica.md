@@ -20,3 +20,5 @@ ordenador. Puso aprueva a las piezas para que tuvienran corriente
 contiuna y medir la tensión.
 
 Con un cable swich tambien se puede revisar si tiene tension o calcular los waltios requeridos
+
+En el cable de el botón de ecendido
