@@ -11,12 +11,12 @@ El núcleo o kernel es la pieza más importante dentro del sistema operativo, po
 ### CLI
 CLI o command line interface, es la manera más simple que existe para comunicarse con el sistema, que es mediante texto plano. 
 
-![alt text](https://en.opensuse.org/images/a/a2/OpenSUSE_Terminal_-_CLT.png)
+
 
 ### GUI 
 Graphical user interface o GUI cumple la misma funcion que el CLI, pero es más intuitivo y "bonito". Utiliza imagenes, shortcuts, ventanas e íconos como manera de comunicarse con el usuario. 
 
-![alt text](http://i.imgur.com/g9MUYRj.png)
+
 
 ### Variedad de GUI
 Hay varias GUI disponibles para los usuarios de linux, pero las más conocidas son: 
