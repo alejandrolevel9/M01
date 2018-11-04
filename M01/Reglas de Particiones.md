@@ -1,6 +1,6 @@
 # Las reglas de windows (en partíciones)
 
-*Estilo Bios-MBR Dos
+* Estilo Bios-MBR Dos
 
 Dentro del disco duro hay Particones son sectores dividiros en el disco 
 duro para organizar la instalación del sistema operativo.
